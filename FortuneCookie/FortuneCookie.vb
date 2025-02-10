@@ -2,6 +2,7 @@
 'RCET 2265
 'Spring 2025
 'WISDOMCOOKIE
+'https://github.com/alxsvxn/MultiplicationTable.git
 
 Option Compare Text
 Option Explicit On
