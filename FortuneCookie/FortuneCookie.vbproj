@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{F91ABBAF-9E70-44E5-966D-BFF4B8D827BA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>FortuneCookie.Module1</StartupObject>
+    <StartupObject>FortuneCookie.FortuneCookie</StartupObject>
     <RootNamespace>FortuneCookie</RootNamespace>
     <AssemblyName>FortuneCookie</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -69,7 +69,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Module1.vb" />
+    <Compile Include="FortuneCookie.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
